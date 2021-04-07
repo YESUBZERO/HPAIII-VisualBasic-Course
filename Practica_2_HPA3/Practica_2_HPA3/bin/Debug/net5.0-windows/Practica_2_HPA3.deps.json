@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Practica_2_HPA3/1.0.0": {
+        "runtime": {
+          "Practica_2_HPA3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica_2_HPA3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
