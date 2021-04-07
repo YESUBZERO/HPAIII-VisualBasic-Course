@@ -1,0 +1,15 @@
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\obj\Debug\netcoreapp3.1\Practica_1_HPA3.vbprojAssemblyReference.cache
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\obj\Debug\netcoreapp3.1\Practica_1_HPA3.FRMPractica1.resources
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\obj\Debug\netcoreapp3.1\Practica_1_HPA3.vbproj.GenerateResource.cache
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\obj\Debug\netcoreapp3.1\Practica_1_HPA3.AssemblyInfoInputs.cache
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\obj\Debug\netcoreapp3.1\Practica_1_HPA3.AssemblyInfo.vb
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\obj\Debug\netcoreapp3.1\Practica_1_HPA3.vbproj.CoreCompileInputs.cache
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\bin\Debug\netcoreapp3.1\Practica_1_HPA3.exe
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\bin\Debug\netcoreapp3.1\Practica_1_HPA3.deps.json
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\bin\Debug\netcoreapp3.1\Practica_1_HPA3.runtimeconfig.json
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\bin\Debug\netcoreapp3.1\Practica_1_HPA3.runtimeconfig.dev.json
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\bin\Debug\netcoreapp3.1\Practica_1_HPA3.dll
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\bin\Debug\netcoreapp3.1\Practica_1_HPA3.pdb
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\obj\Debug\netcoreapp3.1\Practica_1_HPA3.dll
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\obj\Debug\netcoreapp3.1\Practica_1_HPA3.pdb
+D:\Universidad\Practica_1_HPA3\Practica_1_HPA3\obj\Debug\netcoreapp3.1\Practica_1_HPA3.genruntimeconfig.cache
