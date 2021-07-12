@@ -1,4 +1,4 @@
-# VisualBasic_HPA3
+# HPAIII VisualBasic Course
 
 
 Visual Basic is an object-oriented programming language developed by Microsoft. Using Visual Basic makes it fast and easy to create type-safe .NET apps.
